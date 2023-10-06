@@ -208,3 +208,13 @@ textarea::placeholder {
 .hide {
   display: none;
 }
+
+@media only screen and (max-width: 425px) {
+
+  .step-progress {
+    display: none;
+  }
+
+}
+
+step-progress
